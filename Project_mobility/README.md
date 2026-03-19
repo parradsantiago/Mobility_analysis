@@ -1,4 +1,4 @@
-﻿# Journey Analysis for Mercado Libre 🚗💨
+﻿# Mobility analysis - LATAM 🚗💨
 
 This project performs a correlation analysis between **urban traffic congestion (TomTom Index)** and **GDP per capita (OECD/LADB)** across various Latin American cities during 2024.
 
